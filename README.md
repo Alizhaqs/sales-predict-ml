@@ -3,14 +3,14 @@ Sales preditction machine
 
 To start the programm please install next libraries
 
-Pandas
+#Pandas
 pip install pandas
 
-Numpy
+#Numpy
 pip install numpy
 
-Seaborn
+#Seaborn
 pip install seaborn
 
-SKlearn
+#SKlearn
 pip install sklearn
